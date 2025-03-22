@@ -82,7 +82,7 @@ Ensure the following JAR files are added to your Java project's library:
 ### 5. Compile and Run the Application
 
 - Open the project in your Java IDE.
-- Build and run the `Main.java` file.
+- Build and run the `Login.java` file.
 
 ## Usage
 
@@ -105,5 +105,5 @@ This project is open-source and available under the MIT License.
 
 ## Contact
 
-For any queries or issues, reach out to [[your-email@example.com](mailto:your-email@example.com)].
+For any queries or issues, reach out to [ankit.choudhary003@gmail.com].
 
